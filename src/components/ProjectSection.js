@@ -70,10 +70,10 @@ export default function ProjectSection() {
                 slidesPerView: 1,
               },
               768: {
-                slidesPerView: 1,
+                slidesPerView: 2,
               },
               1200: {
-                slidesPerView: 2,
+                slidesPerView: 3,
               },
             }}
           >

@@ -1,5 +1,6 @@
 import WeatherAppImg from '../images/weather-app.png';
 import cocktailImg from '../images/cocktailImg.png';
+import PortfolioImg from '../images/portfolioImg.png';
 
 const projects = [
   {
@@ -15,10 +16,19 @@ const projects = [
     id: 2,
     name: 'Cocktail Search App',
     desc:
-      'A website to search your favorite cocktail, it has various kind of cocktail and information of any cocktail.React js and fetch API is used in this project. ',
+      'A website to search your favorite cocktail.React js and fetch API is used in this project. ',
     img: cocktailImg,
     link: 'https://cocktail-search-app.vercel.app/',
     source: 'https://github.com/ngocluudev/react-project',
+  },
+  {
+    id: 3,
+    name: 'My Portfolio',
+    desc:
+      'My personal portfolio website using React js, Styled-components, swiper and responsive design.  ',
+    img: PortfolioImg,
+    link: 'https://ngocluu-portfolio.vercel.app/',
+    source: 'https://github.com/ngocluudev/My-portfolio',
   },
 ];
 
