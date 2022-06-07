@@ -38,6 +38,7 @@ const HeroStyles = styled.div`
     height: 600px;
     margin: 0 auto;
     border: 2px solid var(--gary-1);
+    z-index: -10;
   }
   .hero__info {
     margin-top: -18rem;

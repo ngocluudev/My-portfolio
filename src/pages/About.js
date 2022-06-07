@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import PText from '../components/PText';
-import Button from '../components/Button';
 import AboutImg from '../assets/images/coder.jpg';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
+import DownloadCVBtn from '../components/DownloadCVBtn';
 
 const AboutStyles = styled.div`
   padding: 20rem 0 0rem 0;
@@ -100,7 +100,7 @@ export default function About() {
                   <br />
                 </PText>
               </div>
-              <Button btnText="Download CV" btnLink="#" />
+              <DownloadCVBtn />
             </div>
             <div className="right">
               <img src={AboutImg} alt="img" />
