@@ -90,7 +90,7 @@ export default function AboutSection() {
           <PText>
             I am a front-end website developer from Ha Noi, Viet Nam. I am 19
             years old and learning as a first-year student at Kinh te Ky Thuat
-            Cong Nghiep university. I have non-experience working in
+            Cong Nghiep university. I have non-experience of working in
             professional conditions.
           </PText>
           <div className="aboutSection__buttons">

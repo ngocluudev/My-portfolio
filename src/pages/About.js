@@ -87,8 +87,8 @@ export default function About() {
               <div className="about__info">
                 <PText>
                   I have learned to code for 6 months.I love it and now I
-                  looking forward to having an opportunity to work in
-                  professional conditions. I want to upgrade my knowledge and
+                  looking forward to having an opportunity to work in a
+                  professional condition. I want to upgrade my knowledge and
                   gain experience as much as possible.
                   <br />
                   <br />

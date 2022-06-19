@@ -160,9 +160,9 @@ export default function HeroSection() {
           </div>
           <div className="hero__info">
             <PText>
-              My portfolio is to introduce myself with the recruiters. This
-              summary my information and you can understand me more through this
-              portfolio.
+              My portfolio is to introduce myself to the recruiters. This
+              summarize my information and you can understand me more through
+              this portfolio.
             </PText>
             <Button
               btnLink="/projects"
