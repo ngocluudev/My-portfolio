@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import CV from '../assets/CV/CV.pdf';
+import CV from '../assets/CV/CV-Luu_Xuan_Ngoc.pdf';
 
 const ButtonStyle = styled.div`
   margin-top: 2rem;
