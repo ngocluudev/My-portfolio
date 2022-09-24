@@ -1,16 +1,16 @@
-import WeatherAppImg from '../images/weather-app.png';
+import CryptoAppImg from '../images/cryptoApp.png';
 import cocktailImg from '../images/cocktailImg.png';
 import PortfolioImg from '../images/portfolioImg.png';
 
 const projects = [
   {
     id: 1,
-    name: 'Weather Search App',
+    name: 'Cryptocurrency App',
     desc:
-      'An application to search the weather by the name of the city. This use HTML CSS and JS only ',
-    img: WeatherAppImg,
-    link: 'https://weather-app-search.vercel.app/',
-    source: 'https://github.com/ngocluudev/jsprojects',
+      'A website that help you to know more about cryptocurrencies. This website was made from React, Redux, Typescript and more',
+    img: CryptoAppImg,
+    link: 'https://ngocluu-crypto-app.vercel.app/',
+    source: 'https://github.com/ngocluudev/Crypto-App',
   },
   {
     id: 2,
